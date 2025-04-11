@@ -2,10 +2,6 @@
 
 Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made with MERN + GraphQL
 
-## Demo
-
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://stackunderflow.netlify.app)
-
 ## Built using
 
 #### Front-end
