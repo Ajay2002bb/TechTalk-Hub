@@ -1,4 +1,4 @@
-# Stack Underflow | SOF Clone | MERN-GraphQL
+# TechTalk-Hub | SOF Clone | MERN-GraphQL
 
 Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made with MERN + GraphQL
 
