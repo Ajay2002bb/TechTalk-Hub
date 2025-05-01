@@ -49,6 +49,10 @@ Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made wit
 - **Responsive UI**: A fully responsive design ensuring smooth usability across all screen sizes.
 - **Leaderboard**: A leaderboard section showcasing top users based on their activity and reputation.
 
+## Sample 
+
+!(https://github.com/Ajay2002bb/TechTalk-Hub/blob/main/Screenshot/Screenshot%20(12).png)
+
 ## Usage
 
 #### Env variable:
