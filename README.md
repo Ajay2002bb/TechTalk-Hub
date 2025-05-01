@@ -55,10 +55,6 @@ Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made wit
 
 
 
-![Mobile-1](https://github.com/Ajay2002bb/TechTalk-Hub/blob/main/Screenshot/Screenshot%20(12).png)
-
-
-
 ## Usage
 
 #### Env variable:
