@@ -28,21 +28,26 @@ Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made wit
 
 ## Features
 
-- Authentication (login/register with username-password)
-- CRUD questions, answers & comments
-- Upvote/downvote questions & answers
-- Tags for organising questions
-- Page views - A view is registered whenever the question page is opened
-- Pages for added tags, registered users & more
-- Sorting of questions on basis of hot, votes, views, newest & oldest
-- Search questions over the server on basis of question title & body
-- Pagination of posts in the form of "Load More" button
-- Error management to prevent app crashes
-- Toast notifications for actions: adding questions, deleting comments etc.
-- Loading spinners for relevant fetching processes
-- Formatted dates for adding/updating questions/answers/comments
-- Dark mode toggle w/ local storage save
-- Proper responsive UI for all screens
+- **Authentication**: Login and register with a username and password using JWT-based authentication.
+- **CRUD Operations**: Users can create, read, update, and delete questions, answers, and comments.
+- **Upvote/Downvote**: Ability to upvote or downvote both questions and answers to manage content quality.
+- **Tagging**: Organize questions using tags for better categorization and navigation.
+- **Page Views**: Each question page registers a page view when opened, helping track content engagement.
+- **Sorting**: Sort questions based on:
+  - Hot (most upvoted and active questions)
+  - Votes (questions with the most votes)
+  - Views (questions with the most views)
+  - Newest (most recently asked questions)
+  - Oldest (questions listed by creation date)
+- **Search Functionality**: Search questions over the server based on question title and body text.
+- **Pagination**: Questions are paginated with a "Load More" button to load more posts dynamically.
+- **Error Handling**: Graceful error management to prevent app crashes and provide helpful feedback.
+- **Toast Notifications**: Real-time toast notifications for actions like adding questions, deleting comments, etc.
+- **Loading Spinners**: Visible spinners during data fetching processes for better user experience.
+- **Formatted Dates**: Display questions, answers, and comments with human-readable formatted dates (e.g., "2 hours ago").
+- **Dark Mode**: Toggle dark mode with settings saved in local storage for persistent user preferences.
+- **Responsive UI**: A fully responsive design ensuring smooth usability across all screen sizes.
+- **Leaderboard**: A leaderboard section showcasing top users based on their activity and reputation.
 
 ## Usage
 
